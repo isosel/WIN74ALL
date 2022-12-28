@@ -14,6 +14,7 @@ To use this :
   6. wait for the terminal to give you back the prompt
   7. vagrant halt
   8. open virtualbox and launch the window7test_default_xxxx virtual machine
+  9. to log into windows user "vagrant" you need to type the password "vagrant" but for azerty keyboard, it's "vqgrqnt", yea... :D
 
 WindowsLoader.zip : a tool to activate windows 7 (detected as a virus on windows 10)
 
