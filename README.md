@@ -1,9 +1,9 @@
 # WIN74ALL
 A set of tools you can use to make your own virtualbox window 7 machine, for free.
 
+Download link for windows 7 : https://lecrabeinfo.net/telecharger/windows-7-edition-familiale-premium-sp1-x64
+
 TakeOwnershipEx.zip : a tool to give right permissions to modify protected files such as msinfo
-
-
 
 WindowsLoader.zip : a tool to activate windows 7 (detected as a virus on windows 10)
 
