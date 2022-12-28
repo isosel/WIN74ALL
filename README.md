@@ -3,6 +3,18 @@ A set of tools you can use to make your own virtualbox window 7 machine, for fre
 
 TakeOwnershipEx.zip : a tool to give right permissions to modify protected files such as msinfo
 
+
+
+WindowsLoader.zip : a tool to activate windows 7 (detected as a virus on windows 10)
+
+/!\ compatible with windows 7 basic home but not enterprise... /!\
+
+upMSInfo32-V1.0-Setup.zip : a tool to modify system information such as manufacturer name, motherboard name, RAM value, ...
+
+-------------------------------------------------------------------------------------------------------------------------------
+
+An other way to download windows 7 is using Vagrant boxes : 
+
 Vagrantfile : to be tested, it's a vagrant box to download a windows 7 virtual machine through Vagrant Cloud
 
 To use this : 
@@ -16,8 +28,3 @@ To use this :
   8. open virtualbox and launch the window7test_default_xxxx virtual machine
   9. to log into windows user "vagrant" you need to type the password "vagrant" but for azerty keyboard, it's "vqgrqnt", yea... :D
 
-WindowsLoader.zip : a tool to activate windows 7 (detected as a virus on windows 10)
-
-/!\ compatible with windows 7 basic home but not enterprise... /!\
-
-upMSInfo32-V1.0-Setup.zip : a tool to modify system information such as manufacturer name, motherboard name, RAM value, ...
