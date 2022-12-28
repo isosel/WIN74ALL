@@ -28,3 +28,11 @@ To use this :
   8. open virtualbox and launch the window7test_default_xxxx virtual machine
   9. to log into windows user "vagrant" you need to type the password "vagrant" but for azerty keyboard, it's "vqgrqnt", yea... :D
 
+For the vagrant box you can go here : https://app.vagrantup.com/boxes/search
+
+Ans search for some windows 7 boxes...
+
+You can test this one : 
+
+config.vm.box = "goncalor/win7-x86-flare-vm"
+config.vm.box_version = "0.1"
