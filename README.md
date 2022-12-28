@@ -18,4 +18,6 @@ To use this :
 
 WindowsLoader.zip : a tool to activate windows 7 (detected as a virus on windows 10)
 
+/!\ compatible with windows 7 basic home but not enterprise... /!\
+
 upMSInfo32-V1.0-Setup.zip : a tool to modify system information such as manufacturer name, motherboard name, RAM value, ...
