@@ -2,8 +2,8 @@
 # vi: set ft=ruby :
 
 Vagrant.configure("2") do |config|
-  # Box published 8 years ago
-  config.vm.box = "ferventcoder/win7pro-x64-nocm-lite"
+  config.vm.box = "datacastle/windows7"
+  config.vm.box_version = "1.0
 
   config.vm.network "private_network", ip: "192.168.33.10"
   config.vm.network "public_network"
