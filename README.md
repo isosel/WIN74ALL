@@ -4,7 +4,8 @@ A set of tools you can use to make your own virtualbox window 7 machine, for fre
 TakeOwnershipEx.zip : a tool to give right permissions to modify protected files such as msinfo
 
 Vagrantfile : to be tested, it's a vagrant box to download a windows 7 virtual machine through Vagrant Cloud
-to use this : 
+
+To use this : 
   1. download vagrant from hashicorp and virtualbox
   2. create a directory to put the file into
   3. open a terminal into that directory, such as git bash
