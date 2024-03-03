@@ -10,6 +10,8 @@ WindowsLoader.zip : a tool to activate windows 7 (detected as a virus on windows
 /!\ compatible with windows 7 basic home but not enterprise... /!\
 
 upMSInfo32-V1.0-Setup.zip : a tool to modify system information such as manufacturer name, motherboard name, RAM value, ...
+I forgot the shortcut to modify information, it's maybe crtl + home
+or use this https://github.com/JayMontana36/vBoxSysInfoMod
 
 -------------------------------------------------------------------------------------------------------------------------------
 
