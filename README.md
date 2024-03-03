@@ -4,13 +4,18 @@ A set of tools you can use to make your own virtualbox window 7 machine, for fre
 Download link for windows 7 : https://lecrabeinfo.net/telecharger/windows-7-edition-familiale-premium-sp1-x64
 
 TakeOwnershipEx.zip : a tool to give right permissions to modify protected files such as msinfo
+---> use this tool to delete msinfo32.exe in system32
 
 WindowsLoader.zip : a tool to activate windows 7 (detected as a virus on windows 10)
 
 /!\ compatible with windows 7 basic home but not enterprise... /!\
 
 upMSInfo32-V1.0-Setup.zip : a tool to modify system information such as manufacturer name, motherboard name, RAM value, ...
-I forgot the shortcut to modify information, it's maybe crtl + home
+Once it's downloaded, execute it, install it in windows/system32 you will have 4 new files : 
+- unins000.dat
+- unins000.exe
+- upMSINFO32.exe  ----> Rename it into msinfo32.exe then open it and press crtl + alt + q to modify it
+- upsysinfo.txt
 or use this https://github.com/JayMontana36/vBoxSysInfoMod
 
 -------------------------------------------------------------------------------------------------------------------------------
